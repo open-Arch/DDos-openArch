@@ -21,6 +21,6 @@ python ddos-openArch.py
 
 QQ群 : 686822329
 
-### 原作者链接：https://github.com/Ha3MrX/DDos-Attack
+### 原作者地址：https://github.com/Ha3MrX/DDos-Attack
 
 ### CSDN博客 ：https://blog.csdn.net/2301_82206160?spm=1000.2115.3001.5343
