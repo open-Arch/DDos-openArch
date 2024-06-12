@@ -16,6 +16,7 @@ chmod +x ddos-openArch.py
 python ddos-openArch.py
 
                                   免责声明
+                                  
 若使用者滥用本项目,本群主无需承担任何法律责任.本程序仅供娱乐,,禁止滥用 和二次 贩卖盈利.禁止用于商业用途.
 
 QQ群 : 686822329
